@@ -17,11 +17,13 @@
 
 1、替換您自己的.config.php文件
 
-2、修改默認的站點名稱，包括主題文件
+2、位於網站根目錄安裝vendor環境 #php composer.phar install
 
-3、如果您有任何問題，概不接受任何質疑、Wiki製作、Issuse...等等
+3、修改默認的站點名稱，包括主題文件
 
-4、國標素材：/public/images/prefix/国旗
+4、如果您有任何問題，概不接受任何質疑、Wiki製作、Issuse...等等
+
+5、國標素材：/public/images/prefix/国旗
 
    放置位置：/public/images/prefix
    
@@ -29,7 +31,7 @@
    
             圖標文件命名：波兰 VIP节点2.jpg
             
-5、web IM：右下角客服系統代碼位置：/resources/views/material/user/main.tpl     481行
+6、web IM：右下角客服系統代碼位置：/resources/views/material/user/main.tpl     481行
 
    web IM註冊地址：https://crisp.chat/
 ### 图片 Images
