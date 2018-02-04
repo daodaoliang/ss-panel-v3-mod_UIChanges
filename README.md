@@ -17,7 +17,9 @@
 
 1、替換您自己的.config.php文件
 
-2、位於網站根目錄安裝vendor環境 #php composer.phar install
+2、位於網站根目錄安裝vendor環境 与 更新Mailgun证书
+#php composer.phar install
+#cd vendor/guzzle/guzzle/src/Guzzle/Http/Resources && wget -O cacert.pem https://curl.haxx.se/ca/cacert-2018-01-17.pem
 
 3、修改默認的站點名稱，包括主題文件
 
