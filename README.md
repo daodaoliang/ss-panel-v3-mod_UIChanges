@@ -13,6 +13,9 @@
 
 telegram交流群：https://t.me/joinchat/Fjn0HkeqdoovkJgTRnvoNw
 
+
+感謝LALA給出教程：https://lala.im/2398.html
+
 -------------------
 
 使用tips:
