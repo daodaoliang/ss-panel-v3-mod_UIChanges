@@ -9,7 +9,7 @@
 
 -------------------
 
-仟佰星云 模板在線查看：www.qianbai.ml
+仟佰星云 模板在線查看：www.qianbai.tw
 
 telegram交流群：https://t.me/joinchat/Fjn0HkeqdoovkJgTRnvoNw
 
